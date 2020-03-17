@@ -1,2 +1,2 @@
-# Carros
-Curso de Flutter
+# App Carros do Curso de Flutter Essencial
+Prof. Ricardo Lecheta
